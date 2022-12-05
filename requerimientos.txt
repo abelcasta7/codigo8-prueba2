@@ -1,0 +1,2 @@
+1. Crear un header responsive con 5 link 
+2. Usar bootstrap como sistema de estilos
